@@ -8,15 +8,21 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+
 1. import the libraries
+
 2. initialize the scaler of X and Y
+ 
 3. train and test the data of X and Y
+ 
 4. Print the Mean Square Error
 
 ## Program:
 
 Program to implement the the Logistic Regression Model to Predict the fetch_california_housing
+
 Developed by: Preethi S
+
 RegisterNumber:  212223230157
 
 
